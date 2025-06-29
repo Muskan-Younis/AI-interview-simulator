@@ -1,0 +1,65 @@
+Type,Role,Question
+General,Software Engineer,Tell me about yourself.
+General,Software Engineer,Why do you want to work at our company?
+General,Software Engineer,What are your strengths and weaknesses?
+General,Software Engineer,Where do you see yourself in 5 years?
+General,Software Engineer,Why should we hire you?
+General,Software Engineer,What are your salary expectations?
+General,Software Engineer,Do you prefer working independently or in a team?
+General,Software Engineer,How do you handle stress and pressure?
+General,Software Engineer,What do you know about our company?
+General,Software Engineer,How do you stay up to date with technology?
+Behavioral,Software Engineer,Describe a time you had a conflict with a teammate. How did you handle it?
+Behavioral,Software Engineer,Tell me about a time you failed. What did you learn?
+Behavioral,Software Engineer,Describe a situation where you had to learn something quickly.
+Behavioral,Software Engineer,Tell me about a project you are proud of.
+Behavioral,Software Engineer,Give an example of when you went above and beyond.
+Behavioral,Software Engineer,Describe a time when you disagreed with your manager. What happened?
+Situational,Software Engineer,What would you do if you're given a project with unclear requirements?
+Situational,Software Engineer,How would you deal with a teammate not pulling their weight?
+Situational,Software Engineer,How would you approach a new technology you've never used before?
+Situational,Software Engineer,What would you do if you discovered a critical bug right before deployment?
+Technical,Software Engineer,"Explain a project where you used version control (e.g., Git)."
+Technical,Software Engineer,How do you ensure code quality in your work?
+Technical,Software Engineer,What is your process for debugging a complex issue?
+Technical,Software Engineer,How do you approach writing scalable code?
+Technical,Data Scientist,Why are you interested in data science?
+Technical,Data Scientist,What are your biggest strengths as a data scientist?
+Technical,Data Scientist,How do you define success in a data science project?
+General,Data Scientist,What kind of company culture do you thrive in?
+Behavioral,Data Scientist,Tell me about a time when your data analysis changed a business decision.
+Behavioral,Data Scientist,Describe a project where you worked with a difficult dataset.
+Behavioral,Data Scientist,Give an example of how you communicated complex data to a non-technical stakeholder.
+Situational,Data Scientist,How would you approach a business problem where the data is messy and incomplete?
+Situational,Data Scientist,What would you do if your model's predictions were constantly off?
+Technical,Data Scientist,Walk me through your process of building a machine learning model.
+Technical,Data Scientist,How do you deal with class imbalance in a dataset?
+Behavioral,Product Manager,Why do you want to be a Product Manager?
+Behavioral,Product Manager,Tell me about a product decision you made that didn't go well.
+Situational,Product Manager,What would you do if engineering says your timeline is unrealistic?
+Technical,Product Manager,How do you prioritize features in a roadmap?
+Technical,Designer,How do you explain your design decisions to non-designers?
+Behavioral,Designer,Tell me about a time your design was criticized.
+Situational,Designer,What would you do if your design conflicted with engineering constraints?
+Technical,Designer,What is your design process for a new app from scratch?
+Behavioral,Frontend Developer,Tell me about a time you optimized a web page's performance.
+Technical,Frontend Developer,How do you ensure cross-browser compatibility in your projects?
+Behavioral,Frontend Developer,What's your approach to working with designers and translating mockups to code?
+Behavioral,Backend Developer,Can you describe a time when you had to troubleshoot a scaling issue?
+Technical,Backend Developer,How do you manage API versioning in your backend services?
+Behavioral,Backend Developer,What's your preferred approach for handling authentication and authorization?
+Behavioral,DevOps Engineer,Tell me how you set up CI/CD pipelines in your previous projects.
+Technical,DevOps Engineer,What tools do you use for infrastructure monitoring?
+Technical,DevOps Engineer,How do you handle rollbacks during failed deployments?
+Behavioral,AI/ML Engineer,Describe a project where you implemented an ML model end-to-end.
+Technical,AI/ML Engineer,How do you handle data preprocessing and cleaning in ML pipelines?
+Behavioral,AI/ML Engineer,What challenges did you face in model deployment and how did you overcome them?
+Behavioral,Mobile Developer,Tell us about an app you built and your development process for it.
+Behavioral,Mobile Developer,What's your strategy for handling different screen sizes and OS versions?
+Technical,Mobile Developer,How do you publish and maintain apps in app stores?
+Technical,UI/UX Designer,How do you incorporate user feedback into your designs?
+Behavioral,UI/UX Designer,Tell us about a time when you had to advocate for a design decision.
+Technical,UI/UX Designer,What role does usability testing play in your workflow?
+Technical,QA Engineer,How do you ensure test coverage without slowing down delivery?
+Behavioral,QA Engineer,What's your approach when reporting bugs that aren't reproducible?
+Behavioral,QA Engineer,Tell us about a time when your testing saved the project from a major issue.

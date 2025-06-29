@@ -1,0 +1,12 @@
+streamlit
+pandas
+textblob
+speechrecognition
+sentence-transformers
+scikit-learn
+deepface
+numpy
+python-dotenv
+opencv-python
+pyaudio
+

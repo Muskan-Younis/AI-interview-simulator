@@ -1,0 +1,235 @@
+Question,Model_Answers,Relevance Score,Tone Score,Acceptance Score
+Tell me about yourself.,"I am a software engineer specializing in full-stack development, with experience in building scalable web applications using React, Node.js, and AWS.",0.9,0,0.63
+Tell me about yourself.,I'm a software engineer who likes coding and working on websites.,0.6,0,0.42
+Tell me about yourself.,I'm just someone who likes computers.,0.3,0,0.21
+Why do you want to work at our company?,"I admire your company's innovative projects and commitment to technology leadership, and I believe my skills will help contribute meaningfully.",0.9,0.5,0.78
+Why do you want to work at our company?,I heard good things about this company and would like to join.,0.6,0.7,0.63
+Why do you want to work at our company?,I just need a job right now.,0.3,0.29,0.3
+What are your strengths and weaknesses?,My strengths are problem-solving and collaboration; I'm actively improving my public speaking skills through courses and practice.,0.9,-0.07,0.61
+What are your strengths and weaknesses?,I'm good at coding but I get nervous when speaking.,0.6,0.7,0.63
+What are your strengths and weaknesses?,I don't really have any weaknesses.,0.3,0.2,0.27
+Where do you see yourself in 5 years?,"I see myself leading a development team, mentoring new engineers, and contributing to innovative projects in the tech industry.",0.9,0.32,0.73
+Where do you see yourself in 5 years?,Hopefully promoted to a better position.,0.6,0.5,0.57
+Where do you see yourself in 5 years?,I don't plan that far ahead.,0.3,0.1,0.24
+Why should we hire you?,"I have strong technical skills, a proactive attitude, and a proven ability to learn quickly and adapt to new challenges.",0.9,0.23,0.7
+Why should we hire you?,I work hard and am ready to learn.,0.6,-0.05,0.41
+Why should we hire you?,"I don't know, you can decide",0.3,0,0.21
+Describe a challenging project you worked on.,"I led a project where we migrated a legacy system to microservices architecture, facing issues like service orchestration and data consistency which we solved with well-designed APIs.",0.9,0,0.63
+Describe a challenging project you worked on.,I worked on a project where we had some problems but managed to finish.,0.6,0,0.42
+Describe a challenging project you worked on.,I don't remember any tough projects.,0.3,-0.39,0.09
+How do you handle tight deadlines?,"I prioritize tasks based on urgency and importance, break them into smaller steps, communicate proactively, and stay focused under pressure.",0.9,-0.07,0.61
+How do you handle tight deadlines?,I try to work faster when deadlines are close.,0.6,0,0.42
+How do you handle tight deadlines?,I just panic and hope for the best.,0.3,1,0.51
+Describe a time you had a conflict with a teammate. How did you handle it?,"In one project, a teammate and I disagreed on implementation strategies. I initiated a calm discussion, understood his concerns, and we compromised to select the best solution for the project.",0.9,0.65,0.82
+Describe a time you had a conflict with a teammate. How did you handle it?,"I had a disagreement once, and we kind of worked it out.",0.6,0.6,0.6
+Describe a time you had a conflict with a teammate. How did you handle it?,I just avoided the person and did my own work.,0.3,0.6,0.39
+How do you stay up to date with technology?,"I follow leading tech blogs like TechCrunch, attend webinars, take online courses, and actively participate in developer communities like Stack Overflow.",0.9,-0.13,0.59
+How do you stay up to date with technology?,I sometimes read articles or watch YouTube videos.,0.6,0,0.42
+How do you stay up to date with technology?,I don't really keep up unless necessary.,0.3,0.1,0.24
+What programming languages are you most comfortable with?,I am highly proficient in Python and JavaScript. I have built several production-grade applications using Django and React.,0.9,0.08,0.65
+What programming languages are you most comfortable with?,I'm familiar with a few languages like Python and JavaScript.,0.6,0.09,0.45
+What programming languages are you most comfortable with?,I don't really know many languages yet.,0.3,0.35,0.32
+What would you do if you don't know the answer to a question during an interview?,"I would stay calm, admit that I don't know, but explain how I would approach solving it or mention related topics I am familiar with.",0.9,0.23,0.7
+What would you do if you don't know the answer to a question during an interview?,I'd probably say I don't know and move on.,0.6,0,0.42
+What would you do if you don't know the answer to a question during an interview?,I'd just stay silent and hope the interviewer moves on.,0.3,0,0.21
+How do you ensure code quality in your work?,"I write unit and integration tests, perform code reviews, follow coding standards, and use static code analysis tools like ESLint and SonarQube.",0.9,0.5,0.78
+How do you ensure code quality in your work?,I usually test my code manually to see if it works.,0.6,-0.25,0.34
+How do you ensure code quality in your work?,"I just run it once and if it works, it's fine.",0.3,0.42,0.33
+"Explain a project where you used version control (e.g., Git).","I regularly use Git for version control, working with branching strategies, pull requests, and conflict resolution. I'm also familiar with GitHub Actions for CI/CD.",0.9,0.19,0.69
+"Explain a project where you used version control (e.g., Git).",I've used Git to push and pull code for projects.,0.6,0,0.42
+"Explain a project where you used version control (e.g., Git).",I've barely used version control systems.,0.3,0.05,0.22
+How do you prioritize tasks when working on multiple projects?,"I assess task urgency, impact, and deadlines, then plan using Agile methods like Scrum or Kanban. I also communicate regularly with stakeholders to adjust priorities if needed.",0.9,0.25,0.7
+How do you prioritize tasks when working on multiple projects?,I try to do the most urgent tasks first.,0.6,0.38,0.53
+How do you prioritize tasks when working on multiple projects?,I just work on whatever I feel like doing.,0.3,-0.07,0.19
+What is your process for debugging a complex issue?,"I start by reproducing the bug, reading logs carefully, using debuggers like pdb or browser DevTools, and systematically isolating the issue. I also write unit tests around the broken part.",0.9,-0.25,0.56
+What is your process for debugging a complex issue?,I look at the error messages and try different things to fix it.,0.6,0,0.42
+What is your process for debugging a complex issue?,I just guess and change things randomly.,0.3,-0.5,0.06
+Explain RESTful APIs.,"RESTful APIs are web services that follow REST architecture principles' stateless communication, resource-based endpoints, standard HTTP methods like GET, POST, PUT, DELETE making them scalable and flexible.",0.9,0,0.63
+Explain RESTful APIs.,REST APIs help connect two systems over the internet.,0.6,0,0.42
+Explain RESTful APIs.,I'm not really sure what RESTful APIs are.,0.3,-0.32,0.11
+What is your experience with cloud technologies?,"I have deployed applications using AWS EC2, S3, and Lambda. I understand the basics of scalability, cost optimization, and serverless architecture.",0.9,0,0.63
+What is your experience with cloud technologies?,I've hosted some projects on cloud platforms like AWS.,0.6,0,0.42
+What is your experience with cloud technologies?,I haven't worked much with cloud yet.,0.3,0.2,0.27
+Describe your experience with databases.,"I have experience designing and querying relational databases like MySQL and PostgreSQL, as well as working with NoSQL databases like MongoDB, focusing on optimization and security.",0.9,0,0.63
+Describe your experience with databases.,I've used SQL databases for school projects,0.6,0,0.42
+Describe your experience with databases.,I don't know much about databases.,0.3,0.2,0.27
+What is Object-Oriented Programming (OOP)?,"OOP is a programming paradigm based on objects containing data and behavior. Core principles include encapsulation, inheritance, polymorphism, and abstraction.",0.9,0,0.63
+What is Object-Oriented Programming (OOP)?,OOP means coding with objects and classes.,0.6,0,0.42
+What is Object-Oriented Programming (OOP)?,I think OOP is about writing longer codes.,0.3,0,0.21
+How would you approach a new technology you've never used before?,"I start with official documentation, work through small projects, and build hands-on experience. I also join communities to stay updated on best practices.",0.9,0.38,0.74
+How would you approach a new technology you've never used before?,I watch tutorials and try small programs.,0.6,-0.25,0.34
+How would you approach a new technology you've never used before?,I just copy code from the internet.,0.3,0,0.21
+Tell me about a time you optimized an application.,"I once optimized a web app by reducing database query times through indexing and caching strategies, leading to a 40% improvement in response time.",0.9,0,0.63
+Tell me about a time you optimized an application.,I once made a website load a little faster by resizing images.,0.6,-0.19,0.36
+Tell me about a time you optimized an application.,I've never optimized anything before.,0.3,0,0.21
+What is your experience with Agile methodologies?,"I have worked in Agile teams using Scrum, participated in sprint planning, daily standups, retrospectives, and worked with Jira for backlog management.",0.9,0.25,0.7
+What is your experience with Agile methodologies?,I know a little about Scrum and Agile from my internship.,0.6,0.16,0.47
+What is your experience with Agile methodologies?,I don't really know what Agile is.,0.3,0.35,0.32
+What is the difference between SQL and NoSQL databases?,"SQL databases are relational, structured with predefined schemas, while NoSQL databases are flexible, scalable, and handle unstructured data like JSON documents.",0.9,0,0.63
+What is the difference between SQL and NoSQL databases?,"SQL uses tables, NoSQL uses documents or collections.",0.6,0,0.42
+What is the difference between SQL and NoSQL databases?,"I'm not sure, but I think NoSQL is better.",0.3,0.05,0.23
+What is DevOps to you?,"DevOps is a culture and set of practices that bridges development and operations, emphasizing continuous integration, continuous deployment (CI/CD), automation, and monitoring.",0.9,0,0.63
+What is DevOps to you?,DevOps is about deploying code faster.,0.6,0,0.42
+What is DevOps to you?,"DevOps is some IT thing, I don't really know.",0.3,0.2,0.27
+How would you handle negative feedback?,"I would listen carefully without getting defensive, reflect on it objectively, and use it as a valuable learning opportunity to improve myself.",0.9,-0.05,0.61
+How would you handle negative feedback?,I would listen but maybe feel a bit bad.,0.6,-0.7,0.21
+How would you handle negative feedback?,I'd probably just ignore it.,0.3,0,0.21
+What are microservices?,"Microservices are an architectural style where applications are composed of small, independent services that communicate over APIs, making systems easier to scale and maintain.",0.9,-0.12,0.59
+What are microservices?,Microservices are small apps that work together.,0.6,-0.25,0.34
+What are microservices?,I think microservices are tiny websites.,0.3,0,0.21
+Tell me about a project you are proud of.,"I developed an e-commerce web application that supported thousands of users, handled secure payments, and integrated inventory management through RESTful APIs.",0.9,0.25,0.7
+Tell me about a project you are proud of.,I built a small online store project in college.,0.6,-0.25,0.34
+Tell me about a project you are proud of.,I once made a basic app that didn't really work.,0.3,0.1,0.24
+How do you deal with failure?,"I reflect on what went wrong, seek feedback, adjust my approach, and treat failure as an essential part of growth.",0.9,-0.27,0.55
+How do you deal with failure?,I try to move on from failures.,0.6,0,0.42
+How do you deal with failure?,I get really discouraged and stop trying.,0.3,0.2,0.27
+What are your salary expectations?,"Based on market research and my skills, I�d expect $70k�$80k annually.",0.9,0,0.63
+What are your salary expectations?,"Maybe around $50,000 or $60,000?",0.6,0,0.42
+What are your salary expectations?,"I don't know, you decide",0.3,0,0.21
+Do you prefer working independently or in a team?,I enjoy both... I thrive in teams and also focus well on individual tasks.,0.9,0.2,0.69
+Do you prefer working independently or in a team?,Either is fine for me.,0.6,0.42,0.54
+Do you prefer working independently or in a team?,I prefer to work alone. Teams slow me down.,0.3,-0.23,0.14
+How do you handle stress and pressure?,"By staying organized, breaking problems down, and taking short breaks.",0.9,-0.08,0.61
+How do you handle stress and pressure?,I just try to push through,0.6,0,0.42
+How do you handle stress and pressure?,I usually get overwhelmed.,0.3,-0.25,0.14
+What do you know about our company?,You're a leader in scalable software... I�ve followed your GitHub work,0.9,0,0.63
+What do you know about our company?,I know you�re a tech company,0.6,0,0.42
+What do you know about our company?,Not much. Just applied because the title matched.,0.3,-0.1,0.18
+Why are you interested in data science?,"I am passionate about uncovering insights from data to drive real-world decisions. During my final year project, I analyzed public health datasets to predict disease outbreaks, which helped local clinics allocate resources better. Data science combines my love for statistics, programming, and problem-solving in a way that can make a tangible impact.",0.9,0.16,0.68
+Why are you interested in data science?,"I have always liked math and coding, and data science seemed like a good combination of the two. I think it�s a field with a lot of opportunity, and I want to be a part of that.",0.6,0.65,0.61
+Why are you interested in data science?,I saw a lot of people going into data science and thought I should too. It looks like a trend that pays well.,0.3,0,0.21
+What are your biggest strengths as a data scientist?,"One of my key strengths is translating complex data into actionable insights. I also excel at communicating results to non-technical stakeholders. For instance, in my last internship, I helped the marketing team increase ROI by 20% through targeted segmentation using clustering techniques.",0.9,-0.1,0.6
+What are your biggest strengths as a data scientist?,I am pretty good with Python and I understand machine learning algorithms. I can also work with big datasets.,0.6,0.32,0.52
+What are your biggest strengths as a data scientist?,I know how to run models and scripts. I just need clear instructions on what to do.,0.3,0.1,0.24
+How do you define success in a data science project?,"Success means delivering a model or analysis that solves a real business problem and is actually adopted by users. A model with 95% accuracy is meaningless if stakeholders don�t use it. So, impact and usability define success for me.",0.9,0.06,0.65
+How do you define success in a data science project?,I think success is when the model gives high accuracy and runs well.,0.6,0.23,0.49
+How do you define success in a data science project?,When I finish coding it and it doesn�t have errors.,0.3,0,0.21
+What kind of company culture do you thrive in?,I thrive in collaborative environments where knowledge sharing is encouraged. I value open communication and learning from teammates across functions � it makes cross-functional projects much more effective.,0.9,0.37,0.74
+What kind of company culture do you thrive in?,I like when the team is nice and things are not too stressful.,0.6,0.6,0.6
+What kind of company culture do you thrive in?,I prefer working alone and not dealing with too many meetings.,0.3,0.5,0.36
+Tell me about a time when your data analysis changed a business decision.,"In a university capstone project with a retail client, I discovered through A/B testing that email promotions at 10 a.m. had significantly higher engagement. This insight led them to change their campaign schedule, resulting in a 15% increase in sales.",0.9,0.25,0.7
+Tell me about a time when your data analysis changed a business decision.,"I once found that a certain feature in the data was important, and I told my team. I�m not sure if it was used.",0.6,0.05,0.43
+Tell me about a time when your data analysis changed a business decision.,"I have not had that opportunity yet, but I�m sure I can do that in the future",0.3,0.18,0.26
+Describe a project where you worked with a difficult dataset.,"In a Kaggle competition, I dealt with a financial dataset riddled with missing values and outliers. I used multiple imputation and anomaly detection to clean the data, which improved my model�s performance significantly.",0.9,0.11,0.66
+Describe a project where you worked with a difficult dataset.,"The data I worked on once had a lot of missing values, so I just removed the rows.",0.6,-0.2,0.36
+Describe a project where you worked with a difficult dataset.,I do not really remember. I just ran the model anyway.,0.3,0.2,0.27
+ Give an example of how you communicated complex data to a non-technical stakeholder.,"I created a dashboard for a client using Power BI to show churn predictions visually. Instead of talking about ROC curves, I explained customer segments in terms of their buying habits. This helped the sales team identify retention strategies.",0.9,0,0.63
+ Give an example of how you communicated complex data to a non-technical stakeholder.,I gave them a report with graphs and tried to explain what the model showed.,0.6,0,0.42
+ Give an example of how you communicated complex data to a non-technical stakeholder.,I just showed them the code and told them the accuracy. They didn�t seem to get it.,0.3,0,0.21
+How would you approach a business problem where the data is messy and incomplete?,"First, I would work with stakeholders to understand the business context and prioritize which variables are most important. Then I�d explore strategies like imputation, feature engineering, or even data augmentation to improve quality before modeling.",0.9,0.38,0.74
+How would you approach a business problem where the data is messy and incomplete?,I would clean the data and drop the rows with missing values.,0.6,0.08,0.45
+How would you approach a business problem where the data is messy and incomplete?,"If the data is bad, I don�t think you can do much.",0.3,-0.25,0.14
+What would you do if your model�s predictions were constantly off?,"I would re-examine the data for leakage, distribution shifts, or poor feature selection. I�d also consider trying simpler models or doing error analysis to find patterns in the wrong predictions.",0.9,-0.45,0.49
+What would you do if your model�s predictions were constantly off?,I wouldd try a different algorithm or change the hyperparameters.,0.6,0,0.42
+What would you do if your model�s predictions were constantly off?,I would just run it again and hope it works this time.,0.3,0,0.21
+Walk me through your process of building a machine learning model.,"I start with understanding the business goal, followed by data collection, cleaning, and exploration. I then perform feature engineering, model selection, cross-validation, and tuning. After evaluation, I deploy and monitor the model�s performance continuously.",0.9,0,0.63
+Walk me through your process of building a machine learning model.,"I load the data, split it, train a model, and check the accuracy.",0.6,0,0.42
+Walk me through your process of building a machine learning model.,I use a template or notebook I found and change a few things.,0.3,-0.2,0.15
+How do you deal with class imbalance in a dataset?,I evaluate using metrics like F1-score or AUC instead of accuracy. I use resampling methods like SMOTE or class weighting in models like Random Forest to balance the influence of minority classes.,0.9,-0.5,0.48
+How do you deal with class imbalance in a dataset?,I try to oversample or undersample the data.,0.6,0,0.42
+How do you deal with class imbalance in a dataset?,I just let the model figure it out.,0.3,0,0.21
+Why do you want to be a product manager?,"I enjoy being at the intersection of technology, business, and users. In my university project, I led a team to build a mobile app for student productivity. I gathered requirements, prioritized features, and coordinated with developers � that experience made me realize how much I thrive in a PM role.",0.9,0.3,0.72
+Why do you want to be a product manager?,"I think product management is a good mix of skills like planning and teamwork, and I enjoy those things.",0.6,0.55,0.58
+Why do you want to be a product manager?,I heard PMs don�t have to code much and they make good money.,0.3,0.45,0.34
+How do you prioritize product features?,"I use a mix of data-driven and user-centric approaches like the RICE framework � considering reach, impact, confidence, and effort. I also align feature decisions with business goals and customer feedback.",0.9,0,0.63
+How do you prioritize product features?,I usually make a list of features and go with the ones I think are important first.,0.6,0.13,0.46
+How do you prioritize product features?,I add features as they come. Prioritizing isn�t always necessary.,0.3,0,0.21
+Describe a time when you had to say no to a stakeholder.,"A stakeholder requested a feature that would delay the launch by two weeks. I explained the impact on timelines and user experience, and offered a compromise to include the feature in a future release based on feedback. This maintained the relationship and met our deadlines.",0.9,0,0.63
+Describe a time when you had to say no to a stakeholder.,"I told them it might be difficult, but I didn�t give a final answer.",0.6,-0.25,0.34
+Describe a time when you had to say no to a stakeholder.,"I said yes even though I didn�t agree, because they were senior.",0.3,0,0.21
+How do you handle conflicts between engineering and design teams?,"I listen to both sides to understand constraints and goals. In one project, design wanted a complex UI and engineering flagged performance issues. We aligned by focusing on MVP and agreed to enhance post-launch. Facilitation and empathy are key.",0.9,-0.15,0.58
+How do you handle conflicts between engineering and design teams?,I try to tell both teams to work together and figure it out.,0.6,0,0.42
+How do you handle conflicts between engineering and design teams?,I usually go with whatever engineering says. They know better.,0.3,0.05,0.23
+What metrics would you use to evaluate product success?,"It depends on the product, but I commonly track metrics like user retention, NPS, activation rate, and conversion. For a SaaS product, I�d also monitor churn rate and LTV/CAC ratio",0.9,-0.3,0.54
+What metrics would you use to evaluate product success?,I look at how many people are using the product.,0.6,0.5,0.57
+What metrics would you use to evaluate product success?,I just focus on finishing the features. Metrics come later.,0.3,0,0.21
+Describe a product you admire and why.,"I admire Notion for how it combines flexibility with simplicity. It listens closely to user feedback and iterates quickly, showing strong product-market fit and thoughtful UX design.",0.9,0.39,0.75
+Describe a product you admire and why.,I like Instagram because it�s popular and has many features.,0.6,0.55,0.58
+Describe a product you admire and why.,I do not really pay attention to products that much.,0.3,0.2,0.27
+How do you gather user feedback?,"I use both qualitative and quantitative methods � user interviews, surveys, usage analytics, and A/B tests. Understanding pain points through multiple channels helps build what users actually need.",0.9,0,0.63
+How do you gather user feedback?,I ask users what they want and write it down.,0.6,-0.16,0.37
+How do you gather user feedback?,I wait for users to complain before making changes.,0.3,0,0.21
+Walk me through how you�d launch a new feature.,"First, I would define the feature's goals and success metrics. Then coordinate with engineering and design on implementation, run internal tests, collect feedback, and soft-launch it to a subset of users before full deployment. Post-launch, I�d monitor adoption and iterate based on data.",0.9,0.23,0.7
+Walk me through how you�d launch a new feature.,I'd finish the feature and then tell people it's available.,0.6,0.4,0.54
+Walk me through how you�d launch a new feature.,I just release the feature as soon as it�s done.,0.3,0,0.21
+How do you ensure alignment across teams?,"I use shared roadmaps, regular sync-ups, and clear documentation. I also make sure every stakeholder understands the �why� behind each initiative � this helps prevent silos and builds shared ownership.",0.9,-0.02,0.62
+How do you ensure alignment across teams?,I keep everyone informed through messages or meetings.,0.6,0,0.42
+How do you ensure alignment across teams?,I usually talk to the team leads and assume they tell their teams.,0.3,-0.25,0.14
+What do you do when a product doesn�t meet expectations post-launch?,"I first evaluate the KPIs and gather user feedback to understand what went wrong � whether it was a positioning issue, usability, or unmet needs. I work with the team to prioritize fixes or pivots, keeping communication transparent throughout.",0.9,-0.12,0.59
+What do you do when a product doesn�t meet expectations post-launch?,I try to figure out what went wrong and fix it.,0.6,-0.5,0.27
+What do you do when a product doesn�t meet expectations post-launch?,I blame the marketing or development team.,0.3,0,0.21
+How do you explain your design decisions to non-designers?,"I tie every decision back to user needs and business goals. For example, I might explain that I chose a minimalist layout to reduce cognitive load and improve conversion based on usability studies.",0.9,0,0.63
+How do you explain your design decisions to non-designers?,I try to describe what I did and hope they understand.,0.6,0,0.42
+How do you explain your design decisions to non-designers?,"They are not designers, so I do not bother explaining much.",0.3,0.2,0.27
+Tell me about a time your design was criticized.,"During a review, a stakeholder felt my layout wasn�t intuitive. I listened, asked clarifying questions, and ran a quick user test to validate the concern. The feedback led to a small but effective change in navigation.",0.9,0.23,0.7
+Tell me about a time your design was criticized.,"Someone didn�t like the colors I used, so I changed them.",0.6,0,0.42
+Tell me about a time your design was criticized.,I ignored the feedback. I trust my design instincts.,0.3,0,0.21
+What would you do if your design conflicted with engineering constraints?,"I collaborate closely with engineers early. If there�s a constraint, I adapt the design while preserving core UX principles, or propose phased implementation.",0.9,0.1,0.66
+What would you do if your design conflicted with engineering constraints?,I would let the engineers decide.,0.6,0,0.42
+What would you do if your design conflicted with engineering constraints?,I would insist they find a way to build it exactly as I designed.,0.3,0.25,0.28
+What is your design process for a new app from scratch?,"I start with user research and problem discovery, create personas and user flows, wireframe ideas, prototype key screens, test with users, and iterate before handoff.",0.9,0,0.63
+What is your design process for a new app from scratch?,I start sketching screens and revise them over time.,0.6,0,0.42
+What is your design process for a new app from scratch?,I just open Figma and design what comes to mind.,0.3,0,0.21
+Tell me about a time you optimized a web page's performance.,"On one project, I reduced initial load time by 40% by lazy-loading images, minifying assets, using code splitting, and deferring non-critical JS.",0.9,0,0.63
+Tell me about a time you optimized a web page's performance.,I removed some unnecessary code and it got a bit faster.,0.6,-0.4,0.3
+Tell me about a time you optimized a web page's performance.,I do not really focus on optimization. It usually works fine.,0.3,0.12,0.25
+How do you ensure cross-browser compatibility in your projects?,"I test across major browsers using tools like BrowserStack, write standards-compliant HTML/CSS, use feature detection via Modernizr, and apply fallbacks when needed.",0.9,0.06,0.65
+How do you ensure cross-browser compatibility in your projects?,I test on Chrome and Firefox and fix things if they break.,0.6,0,0.42
+How do you ensure cross-browser compatibility in your projects?,I assume users will use the latest version of Chrome.,0.3,0.5,0.36
+What's your approach to working with designers and translating mockups to code?,"I collaborate early to clarify interactions, use component libraries or design tokens, and ensure pixel-perfect alignment using tools like Figma Inspect.",0.9,0.03,0.64
+What's your approach to working with designers and translating mockups to code?,I follow the mockup as best I can.,0.6,1,0.72
+What's your approach to working with designers and translating mockups to code?,I design it my own way because mockups are just suggestions.,0.3,0.6,0.39
+Can you describe a time when you had to troubleshoot a scaling issue?,"Our API was slowing under traffic spikes. I analyzed logs, added caching with Redis, optimized database queries, and added rate limiting. Response times improved by 60%.",0.9,0,0.63
+Can you describe a time when you had to troubleshoot a scaling issue?,I restarted the server and added some indexes.,0.6,0,0.42
+Can you describe a time when you had to troubleshoot a scaling issue?,I do not usually worry about scaling unless something breaks.,0.3,-0.25,0.14
+How do you manage API versioning in your backend services?,"I use URI-based versioning (e.g., /v1/, /v2/), deprecate old versions gradually, and notify clients with changelogs. I aim for backward compatibility whenever possible.",0.9,0.05,0.65
+How do you manage API versioning in your backend services?,I rename endpoints when I make big changes.,0.6,0,0.42
+How do you manage API versioning in your backend services?,I do not use versioning. I just update the API directly.,0.3,0.1,0.24
+What's your preferred approach for handling authentication and authorization?,"I use JWT for stateless auth in APIs and OAuth for third-party access. For sensitive systems, I implement RBAC and refresh token strategies with secure storage.",0.9,0.25,0.7
+What's your preferred approach for handling authentication and authorization?,I store user sessions and check roles manually.,0.6,0,0.42
+What's your preferred approach for handling authentication and authorization?,I just use a login form and check credentials in the DB.,0.3,0,0.21
+Tell me how you set up CI/CD pipelines in your previous projects.,"I used GitHub Actions to automate build, test, and deployment steps. It included linting, unit tests, container builds, and auto-deploy to staging with manual approval for production.",0.9,0,0.63
+Tell me how you set up CI/CD pipelines in your previous projects.,I set up Jenkins to deploy code after commits.,0.6,0,0.42
+Tell me how you set up CI/CD pipelines in your previous projects.,CI/CD wasn�t necessary. I deployed manually via FTP.,0.3,0,0.21
+What tools do you use for infrastructure monitoring?,"I've used Prometheus + Grafana for metrics, ELK for logging, and alerting via PagerDuty. I also monitor app health with custom dashboards.",0.9,0,0.63
+What tools do you use for infrastructure monitoring?,I use some logging tools and check logs if there�s an issue.,0.6,0,0.42
+What tools do you use for infrastructure monitoring?,"I don't use any tools. If something breaks, I fix it.",0.3,0,0.21
+How do you handle rollbacks during failed deployments?,"I implement blue-green or canary deployments. If an issue is detected, I trigger an automatic rollback using a previous stable image or version tag.",0.9,-0.17,0.58
+How do you handle rollbacks during failed deployments?,I keep a backup and restore it if things go wrong.,0.6,-0.5,0.27
+How do you handle rollbacks during failed deployments?,I try to fix it live on production.,0.3,0.14,0.25
+Describe a project where you implemented an ML model end-to-end.,"I built a spam detection system. I gathered and cleaned text data, engineered features using TF-IDF, trained a logistic regression model, evaluated with F1-score, and deployed it via Flask API.",0.9,0,0.63
+Describe a project where you implemented an ML model end-to-end.,I trained a model using scikit-learn and shared the output.,0.6,0,0.42
+Describe a project where you implemented an ML model end-to-end.,I used ChatGPT to get a model and didn�t change much.,0.3,0.2,0.27
+How do you handle data preprocessing and cleaning in ML pipelines?,"I handle missing values, normalize features, remove outliers, and encode categories. I also automate this via pipelines to ensure reproducibility",0.9,-0.27,0.55
+How do you handle data preprocessing and cleaning in ML pipelines?,I clean the data manually using pandas.,0.6,0.37,0.53
+How do you handle data preprocessing and cleaning in ML pipelines?,I just use the raw data if it looks okay.,0.3,0.13,0.25
+What challenges did you face in model deployment and how did you overcome them?,Latency was an issue during inference. I optimized the model using quantization and deployed it using FastAPI with GPU inference. I also containerized it for scalability.,0.9,0,0.63
+What challenges did you face in model deployment and how did you overcome them?,I had some bugs during deployment but fixed them.,0.6,0.1,0.45
+What challenges did you face in model deployment and how did you overcome them?,Deployment isn�t my job � I just train the model.,0.3,0,0.21
+Tell us about an app you built and your development process for it.,"I built a habit-tracking app using Flutter. I defined requirements, created UI mockups, built reusable components, integrated Firebase for auth and sync, and deployed to both stores after testing.",0.9,0,0.63
+Tell us about an app you built and your development process for it.,I made an app that shows recipes. It was a basic app.,0.6,0,0.42
+Tell us about an app you built and your development process for it.,"I haven't published anything, just tutorials.",0.3,0,0.21
+What's your strategy for handling different screen sizes and OS versions?,"I use responsive layouts, media queries, and platform-specific conditionals. I test on emulators and real devices with tools like Firebase Test Lab.",0.9,0.2,0.69
+What's your strategy for handling different screen sizes and OS versions?,I check how it looks on a few phones.,0.6,-0.2,0.36
+What's your strategy for handling different screen sizes and OS versions?,I build for one screen size and assume it works.,0.3,0,0.21
+How do you publish and maintain apps in app stores?,"I follow each store�s guidelines, sign the builds, optimize metadata, and monitor crash reports and reviews. I also push regular updates and fixes through version control and CI/CD.",0.9,0,0.63
+How do you publish and maintain apps in app stores?,I upload the app manually and respond to reviews when I can.,0.6,0,0.42
+How do you publish and maintain apps in app stores?,I uploaded once but don�t update it unless needed.,0.3,0,0.21
+How do you incorporate user feedback into your designs?,"I review feedback from usability tests and analytics, categorize issues by severity, and iterate quickly. I prioritize changes that impact core flows and validate updates with A/B tests.",0.9,0.33,0.73
+How do you incorporate user feedback into your designs?,I read feedback and make changes if it makes sense.,0.6,0,0.42
+How do you incorporate user feedback into your designs?,"Feedback is often subjective, so I rarely change my designs.",0.3,0.3,0.3
+Tell us about a time when you had to advocate for a design decision.,I pushed for onboarding simplification when stakeholders wanted more steps. I presented user drop-off data and prototype results showing better engagement with a simplified flow.,0.9,0.5,0.78
+Tell us about a time when you had to advocate for a design decision.,I told them why I liked my version better.,0.6,0.55,0.58
+Tell us about a time when you had to advocate for a design decision.,I didn't push back. It's not my place.,0.3,0,0.21
+What role does usability testing play in your workflow?,"It's essential. I run usability tests after prototyping and before development to catch issues early, validate assumptions, and ensure a smooth UX.",0.9,0.1,0.66
+What role does usability testing play in your workflow?,I do testing when I have time.,0.6,0,0.42
+What role does usability testing play in your workflow?,I don't do much testing unless someone complains.,0.3,0.2,0.27
+How do you ensure test coverage without slowing down delivery?,"I use risk-based testing � focus on critical paths first, automate where possible, and maintain a test suite that runs in CI. I balance speed with impact.",0.9,0.08,0.66
+How do you ensure test coverage without slowing down delivery?,I write test cases but sometimes skip a few.,0.6,-0.2,0.36
+How do you ensure test coverage without slowing down delivery?,I only test after everything is built.,0.3,0,0.21
+What's your approach when reporting bugs that aren't reproducible?,"I document the environment, steps, logs, and frequency. I collaborate with developers to isolate the issue and try to simulate it in different setups.",0.9,0,0.63
+What's your approach when reporting bugs that aren't reproducible?,I just mark it as non-reproducible and close it.,0.6,0,0.42
+What's your approach when reporting bugs that aren't reproducible?,"I ignore it � if I can�t reproduce it, it�s not my problem.",0.3,0,0.21
+Tell us about a time when your testing saved the project from a major issue.,"Before release, I noticed a data corruption bug in our export feature. My regression test caught it. Fixing it avoided a data-loss scenario for hundreds of users",0.9,0,0.63
+Tell us about a time when your testing saved the project from a major issue.,I found a few bugs during testing and logged them.,0.6,-0.2,0.36
+Tell us about a time when your testing saved the project from a major issue.,"I haven't found any major bugs, just minor stuff.",0.3,0.01,0.21
